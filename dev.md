@@ -28,21 +28,23 @@ Everything related to developing for Amiga Classic.
 
 | Project | Description | Author |
 |---------|-------------|--------|
-[amigeconv](https://github.com/tditlu/amigeconv) | A graphics converter for different Amiga bitplanes, chunky & palette formats | Todi / Tulou |
-[amigaos-cross-toolchain](https://github.com/sba1/adtools) | Cross-compiler based on GCC | Krystian Bacławski |
-[Amiga Python](https://github.com/amigazen/AmigaPython) | A port of Python 2 to Amiga | [amigazen project](https://github.com/amigazen) |
-[AmigaSDK-gcc](https://github.com/sacredbanana/AmigaSDK-gcc) | AmigaOS 3.2 NDK plus extra SDKs fixed to work with the GCC compiler. | [Cameron Armstrong](https://github.com/sacredbanana) |
-[aqb](https://github.com/gooofy/aqb) | Amiga QuickBasic Compiler | [Guenter Bartsch](https://github.com/gooofy) |
-[CodeCraft](http://boemann.dk/codecraft/) | Codecraft is the powerful IDE for developing software natively on the Amiga | Camilla Boemann |
-[Blitz 2](https://github.com/nitrologic/blitz2) | Blitz Basic 2 source code (incomplete) | [Simon Armstrong](https://github.com/nitrologic/) |
 [AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) | AmiBlitz3 source code | [honitos](https://github.com/honitos) et al |
+[Amiga Python](https://github.com/amigazen/AmigaPython) | A port of Python 2 to Amiga | [amigazen project](https://github.com/amigazen) |
+[amigaos-cross-toolchain](https://github.com/sba1/adtools) | Cross-compiler based on GCC | Krystian Bacławski |
+[AmigaSDK-gcc](https://github.com/sacredbanana/AmigaSDK-gcc) | AmigaOS 3.2 NDK plus extra SDKs fixed to work with the GCC compiler. | [Cameron Armstrong](https://github.com/sacredbanana) |
+[amigeconv](https://github.com/tditlu/amigeconv) | A graphics converter for different Amiga bitplanes, chunky & palette formats | Todi / Tulou |
 [AMOS Pro](https://github.com/marc365/AMOSProfessional) | AMOS Pro Basic environment + compiler | marc365 |
 [AMOS ProfessionalX](https://github.com/AmiDARK/Amos-Professional-X-Source-Code-Official) | Improved AMOS Pro with AGA support | AmiDARK |
-[EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et al |
-[E-VO](https://github.com/dmcoles/EVO) | E-VO Amiga E Compiler | phantasm4489 (dmcoles) |
-[NeoDICE](https://github.com/noname22/NeoDICE) | Cleanup of DICE C Compiler | Matt Dillon |
-[vscode-amiga-assembly](https://github.com/prb28/vscode-amiga-assembly) | Amiga Assembly extension for Visual Studio Code | [Paul Raingeard](https://github.com/prb28) |
+[aqb](https://github.com/gooofy/aqb) | Amiga QuickBasic Compiler | [Guenter Bartsch](https://github.com/gooofy) |
+[Blitz 2](https://github.com/nitrologic/blitz2) | Blitz Basic 2 source code (incomplete) | [Simon Armstrong](https://github.com/nitrologic/) |
+[CodeCraft](http://boemann.dk/codecraft/) | Codecraft is the powerful IDE for developing software natively on the Amiga | Camilla Boemann |
 [docker4AmigaVBCC](https://github.com/walkero-gr/docker4AmigaVBCC) |Docker images with VBCC compiler for AmigaOS 3 & 4 cross compiling  | [George Sokianos](https://github.com/walkero-gr) |
+[E-VO](https://github.com/dmcoles/EVO) | E-VO Amiga E Compiler | phantasm4489 (dmcoles) |
+[EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et al |
+[NeoDICE](https://github.com/noname22/NeoDICE) | Cleanup of DICE C Compiler | Matt Dillon |
+[vscode-amiga-assembly](https://github.com/prb28/vscode-amiga-assembly) | Amiga Assembly extension for VS Code | [Paul Raingeard](https://github.com/prb28) |
+[vscode-amiga-debug](https://github.com/BartmanAbyss/vscode-amiga-debug) | Amiga C/C++ batteries included extension for VS Code | [BartmanAbyss](https://github.com/BartmanAbyss) |
+[vscode-amiga-debug (fork)](https://github.com/jyoberle/vscode-amiga-debug) | Amiga C/C++ batteries included extension for VS Code - fork with library support | [jyoberle](https://github.com/jyoberle) |
 
 
 ## Frameworks
