@@ -193,6 +193,7 @@ Clones or improved versions of motherboards.
 |---------|-------------|--------|
 | [Amiga ROMY](https://github.com/reinauer/amiga-romy) | 1/2/4MB Kickstart adapter (A3000/A4000) | [Stefan Reinauer](https://github.com/reinauer) |
 | [DiagROM](https://github.com/ChuckyGang/DiagROM) | The Amiga Diagnostic Rom | [John Hertell ](https://github.com/ChuckyGang) |
+| [DiagROMV2](https://github.com/ChuckyGang/DiagROMV2) | The Amiga Diagnostic Rom V2 | [John Hertell ](https://github.com/ChuckyGang) |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
 | [KickSmash32](https://github.com/cdhooper/kicksmash32) | Kickstart ROM replacement module for the Amiga 3000/4000 | [cdhooper](https://github.com/cdhooper) |
 | [OpenKickstartSwitcher](https://github.com/SukkoPera/OpenKickstartSwitcher) | OpenKickstartSwitcher is an Open Hardware Kickstart Switcher for Amiga Computers. | [SukkoPera](https://github.com/SukkoPera) |
